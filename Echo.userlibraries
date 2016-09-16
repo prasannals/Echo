@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="library">
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jna.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/beads.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/tools.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jl1.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/beads-io.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/colt-1.2.0.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jarjar-1.0.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/mp3spi1.9.4.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-3d-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-io-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/vecmath-1.3.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/j3d-core-1.3.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-api-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-jai-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/stax-api-1.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/tritonus_share.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/wstx-asl-3.2.6.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/concurrent-1.3.4.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-samples-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/tritonus_aos-0.3.6.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-3d-demos-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-algorithms-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-graph-impl-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-jai-samples-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/org-jaudiolibs-jnajack.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/collections-generic-4.01.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/jung-visualization-2.0.1.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/org-jaudiolibs-audioservers.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/org-jaudiolibs-audioservers-jack.jar" />
+    <archive path="C:/Users/Flash/IdeaProjects/Echo/library/org-jaudiolibs-audioservers-javasound.jar" />
+  </library>
+</eclipse-userlibraries>
+

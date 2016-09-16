@@ -1,0 +1,13 @@
+This project uses the following libraries and I would like to thank the developers of the following libraries/tutorials
+for providing such excellent content. Thank you.
+
+
+Java Universal Network/Graph(JUNG) Framework - http://jung.sourceforge.net/
+
+Beads library - http://www.beadsproject.net/
+
+Evan X. Merz for writing the book Sonifying Processing: The Beads Tutorial and making it available online for free(as a
+ pdf) - http://computermusicblog.com/blog/sonifyingprocessing/
+
+Christine Alvarado, Mia Minnes and Leo Porter for, firstly, putting together an amazing series of courses at Coursera
+and secondly, the facebook data that this project uses - https://www.coursera.org/specializations/java-object-oriented
